@@ -13,7 +13,7 @@
       <link>https://moonblog.z1.web.core.windows.net/post/hello-world/</link>
       <pubDate>Sun, 19 Jan 2025 08:43:26 +0200</pubDate>
       <guid>https://moonblog.z1.web.core.windows.net/post/hello-world/</guid>
-      <description>&lt;h1 id=&#34;hello-world&#34;&gt;Hello World&lt;/h1&gt;&#xA;&lt;p&gt;This is content  text&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;hello-world&#34;&gt;Hello World&lt;/h1&gt;&#xA;&lt;p&gt;This is content  text&#xA;with update&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
